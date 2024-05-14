@@ -22,7 +22,7 @@ This Repository Contains:
 
 I have attempted solving the problem using Python's OpenCV library functions. I have also tried to solve the same using MediaPipe and OpenCV library but did not find success in it.
 
-If any discrepencies, Contact at mallemgokul@gmail.com
+If any discrepencies, Contact at gokulmallem@gmail.com
 
 
 
